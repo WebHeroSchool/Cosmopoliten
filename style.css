@@ -4,9 +4,10 @@ body {
 header {
   background-color: aqua;
   border: 10px double black;
+  font-family: 'Comic Neue';
 }
 .header__title {
-  font-family: Geneva, sans-serif;
+  font-family: 'Lato', sans-serif;
   text-align: center;
   font-size: 150%;
 }
