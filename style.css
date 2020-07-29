@@ -1,0 +1,54 @@
+body {
+  background-color: silver;
+}
+header {
+  background-color: aqua;
+  border: 10px double black;
+}
+.header__title {
+  font-family: Geneva, sans-serif;
+  text-align: center;
+  font-size: 150%;
+}
+.form__lebel {
+  font-style: oblique;
+   font-size: 120%;
+}
+.form__input {
+  border-radius: 30px;
+}
+span {
+  text-decoration: underline;
+  text-decoration-color: red;
+  }
+.header__button {
+  margin-bottom: 10px;
+  margin-left: 30px;
+  background-color: green;
+}
+.section__title {
+  text-align: center;
+}
+.section__text {
+  text-indent: 25px;
+  text-align: justify;
+  font-stretch: expanded;
+}
+.section__button {
+  outline-style: outset;
+  outline-color: black;
+  color: white;
+  background-color: blue;
+}
+.section__button_green {
+  color: white;
+   background-color: blue;
+   margin-left: 30px;
+}
+footer {
+  margin-top: 20px;
+  border-top: 1px solid red;
+}
+.footer__text {
+  font-style: italic;
+}
